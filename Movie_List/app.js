@@ -45,7 +45,7 @@ class Movie {
       container.insertBefore(div, form);
   
       // Vanish in 3 seconds
-      setTimeout(() => document.querySelector('.alert').remove(), 3000);
+      setTimeout(() => document.querySelector('.alert').remove(), 2000);
     }
   
     static clearFields() {
