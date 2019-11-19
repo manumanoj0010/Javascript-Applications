@@ -29,3 +29,5 @@ Passionate web and flutter developer flutter. Currently pursuing his carrer as a
 
 [![GitHub stars](https://img.shields.io/github/stars/manumanoj0010/Javascript-Applications.svg?style=social&label=Star)](https://github.com/manumanoj0010/Javascript-Applications) [![GitHub forks](https://img.shields.io/github/forks/manumanoj0010/Javascript-Applications.svg?style=social&label=Fork)](https://github.com/manumanoj0010/Javascript-Applications.svg/fork) [![GitHub watchers](https://img.shields.io/github/watchers/manumanoj0010/Javascript-Applications.svg?style=social&label=Watch)](https://github.com/manumanoj0010/Javascript-Applications) [![GitHub followers](https://img.shields.io/github/followers/manumanoj0010.svg?style=social&label=Follow)](https://github.com/manumanoj0010)
 
+## Credits
+Some of the designs and codes are not mine I have taken help of some the youtube tutorials and some random Internet search.
