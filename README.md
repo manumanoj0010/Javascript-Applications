@@ -1,5 +1,5 @@
 # Javascript-Applications
-This repository contains some mini projects of javascript or you can call it as javascript applications. These are made with pure javascript without the help of any frameworks and librarys. 
+This repository contains some mini projects of javascript or you can call it javascript applications. These are made with pure javascript without the help of any frameworks and librarys. 
 
 #### List of Applications
 
